@@ -16,7 +16,7 @@ export default {
 
 <style scoped>
 .page-view {
-  padding-bottom: 11px;
+  padding-bottom: 10px;
   margin: 30px;
 }
 </style>
