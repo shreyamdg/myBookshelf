@@ -8,7 +8,7 @@ export default defineConfig({
   plugins: [
     vue(),
   ],
-  base: '/mybookshelf/',  // The repository name
+  base: '/myBookshelf/',  // The repository name
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url))
